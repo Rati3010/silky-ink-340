@@ -40,7 +40,6 @@ const Home = () => {
             <Text fontSize='4xl'>Did you know also have webinars?</Text>
             <Text>Online sessions designed to help you develop skills in less than an hour. You can watch webinars live or register to take part in what is coming up.</Text>
             </VStack>
-          
             <Button borderRadius='none' bg='white' color='#2B6CB0' p='5'>Explore our webinars</Button>
           </HStack>       
       </div>
