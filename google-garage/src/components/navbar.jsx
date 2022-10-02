@@ -38,10 +38,10 @@ const Navbar = () =>{
         
       </ul>
       <NavLink key={"/signin"} to={"/signin"}>
-      <button type="button" class="btn btn-white mx-4 text-primary">Sign in</button>
+      <button type="button" className="btn btn-white mx-4 text-primary">Sign in</button>
       </NavLink>
       <NavLink key={"/register"} to={"/register"}>
-      <button type="button" class="btn btn-primary">Register</button>
+      <button type="button" className="btn btn-primary">Register</button>
       </NavLink>
       
     </div>
